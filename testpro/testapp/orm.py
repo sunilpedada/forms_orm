@@ -1,3 +1,4 @@
+#https://www.vertabelo.com/blog/on-delete-restrict-vs-on-delete-no-action/
 from testapp.models import players
 # //////////////////////////////// ORM ////////////////////////////////////
 queryset=players.objects.all() #======>all records type()=>queryset
