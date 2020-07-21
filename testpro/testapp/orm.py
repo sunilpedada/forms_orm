@@ -1,4 +1,5 @@
 #https://www.vertabelo.com/blog/on-delete-restrict-vs-on-delete-no-action/
+#https://swapps.com/blog/quick-start-with-django-orm/#:~:text=Join%20Queries,when%20it%20executes%20its%20query.
 from testapp.models import players
 # //////////////////////////////// ORM ////////////////////////////////////
 queryset=players.objects.all() #======>all records type()=>queryset
